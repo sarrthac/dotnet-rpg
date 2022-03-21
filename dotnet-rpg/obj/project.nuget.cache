@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "xGOscYj83lb02Go4hl1QcRYhaxf26XquMvFnZbCWTVOtl02wwWuYkyW+UGrwCfuv/saIFrT/R7pfy5r0huoTXw==",
+  "dgSpecHash": "pmvxhJ/l7uSGt2pYIquE8NxjZT9UDzYNmpxr06BvCmKXoxEZAZ4BY/G/quvGEPOTLo3QE02Y0BiRdO7CBhK0Ag==",
   "success": true,
   "projectFilePath": "C:\\Users\\sarrt\\source\\repos\\dotnet-rpg\\dotnet-rpg\\dotnet-rpg.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sarrt\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
     "C:\\Users\\sarrt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\sarrt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\sarrt\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\sarrt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\sarrt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\sarrt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\sarrt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\sarrt\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
