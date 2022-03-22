@@ -36,7 +36,7 @@ namespace dotnet_rpg.Controllers
             return Ok(await _characterService.GetCharacterById(id));
         }
 
-        [HttpPost("GetAll")]
+        [HttpPost]
         public async Task<ActionResult<ServiceResponse<List<GetCharacterDto>>>> AddChracter(AddCharacterDto newCharacter)
         {
             //Called the AddCharacter(newCharacter) method from implemented class - CharacterService
