@@ -12,6 +12,12 @@ builder.Services.AddSwaggerGen();
 //Added Scope so that when Controller wants to inject the ICharacterService then corresponding implementation class would be CharacterService
 builder.Services.AddScoped<ICharacterService, CharacterService>();
 
+//Registering AutoMapper
+builder.Services.AddAutoMapper(typeof(IStartup));
+
+//Automatically configures the requirements of AutoMapper
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -27,3 +27,5 @@ C:\Users\sarrt\source\repos\dotnet-rpg\dotnet-rpg\obj\Debug\net6.0\dotnet-rpg.ge
 C:\Users\sarrt\source\repos\dotnet-rpg\dotnet-rpg\obj\Debug\net6.0\ref\dotnet-rpg.dll
 C:\Users\sarrt\source\repos\dotnet-rpg\dotnet-rpg\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
 C:\Users\sarrt\source\repos\dotnet-rpg\dotnet-rpg\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\sarrt\source\repos\dotnet-rpg\dotnet-rpg\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\sarrt\source\repos\dotnet-rpg\dotnet-rpg\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
